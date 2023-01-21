@@ -45,7 +45,7 @@ https://www.merriam-webster.com/word-of-the-day/calendar/word-of-the-day/exacerb
 1. Clone this repo wherever you would like `git clone https://github.com/caleb-the-crab/wotd-cli.git`.
 2. Run the script `wotd-sh` to make sure it's working
 3. Add the following line to your .bashrc, or whatever config file is used for your
-terminal: `alias wotd="$HOME/<...>/wotd-cli/wotd-sh"`. Replace `<...>` with the
+shell of choice: `alias wotd="$HOME/<...>/wotd-cli/wotd-sh"`. Replace `<...>` with the
 path to which you cloned the repo.
 4. Close and re-open your terminal to apply the changes and type `wotd`.
 
