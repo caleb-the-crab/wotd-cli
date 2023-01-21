@@ -1,4 +1,4 @@
-# wotd-cli - Word of the Day
+# wotd-cli - Word of the Day in the Command Line
 A simple, hackable application that pulls the Word of the Day from Merriam
 Webster's Dictionary and displays it to the console in a Rich panel.
 
