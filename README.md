@@ -21,7 +21,7 @@ $ wotd
 │ pain, things that exacerbate cause a situation to go     │
 │ from bad to worse. A pointed insult or cutting remark,   │
 │ for example, might exacerbate tensions between two       │
-│ bitter rivals. The legacy of acer isn&#039;t all         │
+│ bitter rivals. The legacy of acer isn't all              │
 │ negative, however. The Latin name for the genus of maple │
 │ trees and shrubs is Acer, owing to maples’               │
 │ characteristically pointy leaves.                        │
