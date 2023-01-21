@@ -31,7 +31,7 @@ def extract_blurb(html: str) -> str:
     blurb_start = '" data-share-description="'
     blurb_end = '"></a>'
     blurb = html[html.index(blurb_start)+len(blurb_start) : html.index(blurb_end)]
-    blurb = blurb.replace('&quot;','"')
+    blurb = blurb.replace('&quot;','"').replace('&#039;', "'")
     return blurb
 
 def format_blurb(blurb: str) -> str:
